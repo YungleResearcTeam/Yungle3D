@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <tab name="init" type="InitTab" active="false" scrollx="20" scrolly="0" scale="0.9"></tab>
-  <tab name="main" type="MainTab" active="true" scrollx="-100.15681286278561" scrolly="-167.93385776494517" scale="0.8227024747918815">
+  <tab name="main" type="MainTab" active="true" scrollx="-81.52725275302146" scrolly="-110.67559932060533" scale="0.7462153966366272">
     <variables xmlns="https://developers.google.com/blockly/xml">
       <variable id="6:EP=bld}4-(9{3q3uLw">input_range_start</variable>
       <variable id="Okq8aCYJC})d]WmNLsY[">input_range_end</variable>
@@ -202,9 +202,6 @@
     <block xmlns="https://developers.google.com/blockly/xml" type="DOMObjectSelector" id="k%%Tm/(+vmzuVl+,l*6/" x="570" y="490">
       <field name="DOM_OBJECT">BODY</field>
     </block>
-    <block xmlns="https://developers.google.com/blockly/xml" type="DOMObjectSelector" id="Eq6iW]eA7Xbv}%aX+?L2" x="410" y="510">
-      <field name="DOM_OBJECT">WINDOW</field>
-    </block>
     <block xmlns="https://developers.google.com/blockly/xml" type="console.log" id="f%/)RlLD;oSJ|-GJU8UM" x="130" y="570">
       <value name="VALUE">
         <shadow type="text" id="xXwX^LO@-M(D{zMZJ_b]">
@@ -243,6 +240,9 @@
                 <shadow type="text" id="Voa~gtJtWjgs{x[N*:YN">
                   <field name="TEXT">test-div</field>
                 </shadow>
+                <block type="DOMObjectSelector" id="Eq6iW]eA7Xbv}%aX+?L2">
+                  <field name="DOM_OBJECT">WINDOW</field>
+                </block>
               </value>
             </block>
           </value>
