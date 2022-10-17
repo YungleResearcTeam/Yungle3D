@@ -1,0 +1,104 @@
+Uri: https://lenis.studiofreight.com/
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\index.htm
+Content Type: text/html
+
+Uri: https://lenis.studiofreight.com/apple-touch-icon.png
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://lenis.studiofreight.com/favicon-16x16.png
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://lenis.studiofreight.com/favicon-32x32.png
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://lenis.studiofreight.com/favicon.ico
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://lenis.studiofreight.com/fonts/Slussen-Bold.woff2
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\fonts\Slussen-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://lenis.studiofreight.com/fonts/Slussen-Compressed-Black.woff2
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\fonts\Slussen-Compressed-Black.woff2
+Content Type: font/woff2
+
+Uri: https://lenis.studiofreight.com/fonts/Slussen-Expanded-Black.woff2
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\fonts\Slussen-Expanded-Black.woff2
+Content Type: font/woff2
+
+Uri: https://lenis.studiofreight.com/fonts/Slussen-Medium.woff2
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\fonts\Slussen-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://lenis.studiofreight.com/fonts/Slussen-Regular.woff2
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\fonts\Slussen-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://lenis.studiofreight.com/fonts/Slussen-Semibold.woff2
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\fonts\Slussen-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://lenis.studiofreight.com/safari-pinned-tab.svg
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://lenis.studiofreight.com/site.webmanifest
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://lenis.studiofreight.com/_next/static/chunks/494-a23b35dd863bf4e7.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\chunks\494-a23b35dd863bf4e7.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/chunks/997-2d3c0eb96aa64b69.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\chunks\997-2d3c0eb96aa64b69.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/chunks/framework-c87cbe29bcbbc912.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\chunks\framework-c87cbe29bcbbc912.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/chunks/main-9ca5e642524055d7.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\chunks\main-9ca5e642524055d7.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/chunks/pages/index-d78a4f6a01f1654d.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\chunks\pages\index-d78a4f6a01f1654d.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/chunks/pages/_app-74c936c1aed21f56.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\chunks\pages\_app-74c936c1aed21f56.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/chunks/webpack-a02bb0050d3cce34.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\chunks\webpack-a02bb0050d3cce34.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/css/532561f473c2805f.css
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\css\532561f473c2805f.css
+Content Type: text/css
+
+Uri: https://lenis.studiofreight.com/_next/static/css/65e738caaa674704.css
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\css\65e738caaa674704.css
+Content Type: text/css
+
+Uri: https://lenis.studiofreight.com/_next/static/Ddu-NjaPVY9PQD5KDkslI/_buildManifest.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\Ddu-NjaPVY9PQD5KDkslI\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://lenis.studiofreight.com/_next/static/Ddu-NjaPVY9PQD5KDkslI/_ssgManifest.js
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\_next\static\Ddu-NjaPVY9PQD5KDkslI\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-XXZ273XT00
+File Name: d:\Sistema\Descargas\lenis\lenis.studiofreight.com\gtag\js
+Content Type: application/javascript
+
